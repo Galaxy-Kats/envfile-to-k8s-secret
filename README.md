@@ -1,3 +1,12 @@
+# What is this?
+
+This docker command turns `.env` file to k8s secret object yaml file.
+
+<img width="1078" alt="截圖 2022-06-01 下午4 43 46" src="https://user-images.githubusercontent.com/5511042/171364872-cfd32803-b294-456f-8bd7-04604806137b.png">
+
+<br/><br/>
+
+
 # Prerequisites
 * docker installed on your machine
 
